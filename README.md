@@ -9,6 +9,10 @@ demonstrating key phenomena including:
 
 Developed with Claude 4.0 Sonnet for educational and engineering analysis purposes.
 
+### Usage
+
+Execute the `signal_transmission_plot.py` script, as it features the animation tab in addition to the analysis tab.
+
 ### ANALYSIS TAB:
 1. Adjust impedance values to see reflection effects
 2. Modify line parameters to observe propagation changes
